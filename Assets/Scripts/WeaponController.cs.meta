@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c74762467f4685e4d8292d764ec004ac
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefab: {fileID: 2795997444222629383, guid: 3c716adfc5cc6cb4592970524f8e266b, type: 3}
+  - holsterTransform: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
